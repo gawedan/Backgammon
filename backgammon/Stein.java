@@ -4,8 +4,8 @@ import hilfKlasse.Farbe;
 
 public class Stein {
 	private Farbe farbe;
-	private boolean darfBewegen;
 
+	private boolean darfBewegen;
 	public Stein(Farbe farbe) {
 		this.farbe = farbe;
 	}
